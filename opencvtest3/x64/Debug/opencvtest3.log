@@ -1,0 +1,27 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (opencvtest3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  multipleObjectTracker.cpp
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(86): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(116): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(116): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(117): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(117): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(118): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(118): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(119): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(119): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(120): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(120): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(121): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(121): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(179): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(195): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(196): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(235): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(251): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(252): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(275): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(276): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(311): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(327): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\julian li\source\repos\opencvtest3\opencvtest3\multipleobjecttracker.cpp(328): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  opencvtest3.vcxproj -> C:\Users\Julian Li\source\repos\opencvtest3\x64\Debug\CouplerTracker.exe
